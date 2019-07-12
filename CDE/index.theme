@@ -1,0 +1,31 @@
+[Icon Theme]
+Name=CDE
+Comment=Icons by Andrew Enyart
+Example=folder
+
+Directories=32x32/actions,128x128/apps,128x128/devices,128x128/filesystems,128x128/mimetypes
+
+[32x32/actions]
+Size=32
+Context=Actions
+Type=Threshold
+
+[128x128/apps]
+Size=128
+Context=Applications
+Type=Threshold
+
+[128x128/devices]
+Size=128
+Context=Devices
+Type=Threshold
+
+[128x128/filesystems]
+Size=128
+Context=FileSystems
+Type=Threshold
+
+[128x128/mimetypes]
+Size=128
+Context=MimeTypes
+Type=Threshold
